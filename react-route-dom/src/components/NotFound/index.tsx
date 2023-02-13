@@ -1,9 +1,9 @@
 import './style.css';
 
-export const Home = () => {
+export const NotFound = () => {
     return (
         <div>
-            <h1>Home</h1>
+            <h1>Page not found.</h1>
         </div>
     );
 }
